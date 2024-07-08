@@ -1,4 +1,4 @@
-### PS1
+### HW1
 
 - Random Number Generation, Simulation of Random Variates
   -  Generate random numbers with Binomial distribution
@@ -18,7 +18,7 @@
 - The Heston Model with Full Truncation, Partial Truncation and Reflection methods
 - Use 2-dimensional Halton sequences to estimate an integral
 
-### PS2
+### HW2
 
 - Binomial-tree, Trinomial-tree models
   - Use the Binomial Method to price a American Put option using various u, d and p combinations
@@ -36,7 +36,7 @@
     - Implicit Finite-Difference method
     - Crank-Nicolson Finite-Difference method
 
-### PS3
+### HW3
 
 - Exotic Options, Variance Swaps, Jump-Diffusions
   - Estimate the value of the default option, the default probability and the Expected option Exercise Time where the collateral follows a jump-diffusion process
