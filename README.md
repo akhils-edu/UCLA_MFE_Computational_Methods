@@ -35,3 +35,19 @@
     - Explicit Finite-Difference method
     - Implicit Finite-Difference method
     - Crank-Nicolson Finite-Difference method
+
+### PS3
+
+- Exotic Options, Variance Swaps, Jump-Diffusions
+  - Estimate the value of the default option, the default probability and the Expected option Exercise Time where the collateral follows a jump-diffusion process
+  - Estimate the Price of a Down-and-Out Put option with time varying barrier value
+- Fixed Income Securities
+  - Price following instruments assuming that the dynamics of the short-term interest rate are given by the CIR model:
+    - A coupon-paying bond
+    - A European Call option on Pure Discount Bond using Monte Carlo Simulation
+    - A European Call option on Pure Discount Bond using Implicit Finite-Difference Method
+  - Price a European Put option on a Pure Discount Bond, assuming the dynamics of the short-term interest rate are given by the G2++ model
+- MBS
+  - Compute the price of the MBS with the CIR model of interest rates and the Numerix Prepayment Model
+  - Compute the Option-Adjusted-Spread (OAS)
+  - Price the IO and PO tranches
